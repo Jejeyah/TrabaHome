@@ -22,8 +22,12 @@ External services:
 5. Start frontend app
 
 ## Team Members
-Leader: [Your Name]
+Leader: Justhine Joy Ocampo
 
 Members:
-- Member 1
-- Member 2
+- Johaina Aguado
+- Mark Joseph Laude
+- Kurt Laurence Rivera
+- Magdalene De Vera
+- Jefferson Macalindong
+  
