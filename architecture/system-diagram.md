@@ -11,3 +11,13 @@ External services:
 - Blockchain Audit Logging (Hyperledger Fabric)
 - Google Maps API
 - SMS Gateway
+
+# TrabaHome Data Flow Architecture
+
+User → React Web App → Backend API → MongoDB
+
+External Services:
+- AI Verification (OpenCV / TensorFlow)
+- Blockchain Audit Logger (Hyperledger Fabric)
+- Google Maps API
+- SMS Gateway
