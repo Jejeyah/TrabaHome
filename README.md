@@ -31,3 +31,9 @@ Members:
 - Magdalene De Vera
 - Jefferson Macalindong
   
+## Repository Structure
+
+architecture/ – system architecture diagrams  
+docs/ – operations documentation  
+scripts/ – automation and deployment playbooks  
+security/ – firewall and security configurations
